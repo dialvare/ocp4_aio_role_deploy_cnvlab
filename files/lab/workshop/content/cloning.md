@@ -22,7 +22,7 @@ cd /var/www/html
 Download the latest Fedora 34 cloud image to this directory:
 
 ```execute-1
-wget http://mirror.uv.es/mirror/fedora/linux/releases/34/Cloud/x86_64/images/%cloud-image-name-fedora%.xz
+wget %cnvlab-fedora-image%
 ```
 
 Wait for the download to complete and extract/decompress the image:
